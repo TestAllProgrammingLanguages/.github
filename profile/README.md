@@ -1,11 +1,11 @@
 ## Hi
 Lets write calculator with different programming languages.
 ## Languages:
-- [x] C++
-- [x] Shell
-- [x] Python
-- [x] R
-- [x] Shell
+- [x] C++ <a href="https://github.com/TestAllProgrammingLanguages/cPlusPlus-calculator"> calculator </a>
+- [x] Python <a href="https://github.com/TestAllProgrammingLanguages/python-calculator"> calculator </a>
+- [x] R <a href="https://github.com/TestAllProgrammingLanguages/r-calculator"> calculator </a>
+- [x] Shell <a href="https://github.com/TestAllProgrammingLanguages/shellScript-calculator"> calculator </a>
+- [ ] Perl <a href="https://github.com/TestAllProgrammingLanguages/perl-calculator"> calculator </a> (incomplete)
 - [ ] C#
 - [ ] Java
 - [ ] C
