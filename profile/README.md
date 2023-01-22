@@ -1,2 +1,63 @@
 ## Hi
 Lets write calculator with different programming languages.
+## Languages:
+- [x] C++
+- [x] Shell
+- [x] Python
+- [x] R
+- [x] Shell
+- [ ] C#
+- [ ] Java
+- [ ] C
+- [ ] Rust
+- [ ] Assembly
+- [ ] Scala
+- [ ] Julia
+- [ ] Z++
+- [ ] X#
+- [ ] webAssembly
+- [ ] Vala
+- [ ] TypeScript
+- [ ] Swift
+- [ ] Sql
+- [ ] Ruby
+- [ ] Qml
+- [ ] Q# 
+- [ ] Pure
+- [ ] Pascal
+- [ ] Php
+- [ ] P
+- [ ] objectiveC
+- [ ] Oak
+- [ ] Nasm
+- [ ] Mesa
+- [ ] M#
+- [ ] Lua
+- [ ] Lisp
+- [ ] Lisa
+- [ ] Lava
+- [ ] K
+- [ ] Kotlin
+- [ ] J
+- [ ] Io
+- [ ] JavaScript
+- [ ] Hack
+- [ ] Groovy
+- [ ] Go
+- [ ] Fstar
+- [ ] F#
+- [ ] Fantom
+- [ ] F
+- [ ] Erlang
+- [ ] E
+- [ ] Elixir
+- [ ] Delphi
+- [ ] D
+- [ ] B
+- [ ] Dog
+- [ ] Carbon
+- [ ] cStar
+- [ ] C--
+- [ ] Ada
+- [ ] A++
+- [ ] Dart
